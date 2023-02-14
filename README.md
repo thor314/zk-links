@@ -4,11 +4,7 @@ Reader note: This is a work in progress. When it's ready, I'll advertise it more
 WTF Why? Why another link tree? Aren't there already a billion link trees?
 Yeah, there are already a billion link trees. [Some](https://kb.delendum.xyz/zk-knowledge) of them kick ass.
 
-This link tree aims to be:
-- **Objective-oriented for non-experts**. The first part of this link-tree is directed at non-experts, who are excited about zero-knowledge, and are looking to gain some particular familiarity with mathematics, cryptography, implementations, or primitives. If you're an expert, you already know most of this. Still, you might find the comprehensive resources useful as a reference.
-- **Introductory or Complete**. I claim the best resources are either Introductory or Complete. I find blog posts as a medium sometimes introductory, but rarely complete. Papers are rarely introductory, and occasionally complete, and often noisy; and besides, other link aggregators already exist to describe the canonical chain of papers. Books are often complete. Therefore, I will generally prefer linking to blog posts and books over papers, especially for the earlier section on introductory material.
-- **Concise**: I will only link to a resource if I think it's the best-in-class resource. Alternatively, if you do you want all-the-links, I've included several comprehensive link dumps, as well as the excellent Delendum resource.
-- **Application agnostic**. The application space is somewhat noisy right now, so providing authoritative resources is difficult. However, I do link to several projects I find exciting and underdiscussed at the end.
+This link tree aims to be objective-oriented, introductory, complete, concise, and application-agnostic in its resources. It is directed at non-experts, who are looking to gain familiarity with mathematics, cryptography, implementations, and primitives. For these non-experts, the resource will provide comprehensive and best-in-class links to blog posts and books, rather than papers. For experts, the resource will also provide comprehensive resources as a reference. Additionally, comprehensive link dumps, as well as the excellent Delendum resource, are provided for those who prefer all-the-links. Finally, several applications and projects are included to help users stay up-to-date with the latest developments.
 
 If you have suggestions or disagree with my opinion that $RESOURCE is the best on $TOPIC, DM me an argument for a better one on Twitter @cryptograthor.
 
